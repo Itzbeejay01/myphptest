@@ -1,5 +1,5 @@
 <?php
-include 'insert.php'
+include 'inser.php'
 ?>
 <!DOCTYPE html>
 <html lang="en">
