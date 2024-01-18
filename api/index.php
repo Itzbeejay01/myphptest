@@ -1,5 +1,5 @@
 <?php
-include 'connection.php'
+include 'insert.php'
 ?>
 <!DOCTYPE html>
 <html lang="en">
