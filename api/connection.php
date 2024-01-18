@@ -1,9 +1,10 @@
 <?php
-$dbhost = '127.0.0.1';
-$dbuser = 'root';
-$dbpassword = 'root';
-$dbname = 'passport'; 
-$dbport = 8889;
+$dbhost = 'db4free.net';
+$dbuser = 'jabucsc';
+$dbpassword = 'Jabucsc123@';
+$dbname = 'jabucsc'; 
+$dbport = 3306;
+
 
 $connect = mysqli_connect($dbhost, $dbuser, $dbpassword, $dbname, $dbport);
 if (mysqli_connect_errno()) {
